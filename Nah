@@ -1,0 +1,155 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Window = Library.CreateLib("The OleKid|Bahasa Indonesia|Versi Gratis", "Midnight")
+
+---Tabs
+
+local Tab1 = Window:NewTab("Games")
+local Tab1Section = Tab1:NewSection("Makasih Untuk Review")
+local Tab2 = Window:NewTab("Hub")
+local Tab2Section = Tab2:NewSection("Ini pilih aja Hub")
+local Tab3 = Window:NewTab("Script")
+local Tab3Section = Tab3:NewSection("Tidur lah")
+local Tab4 = Window:NewTab("Executor")
+local Tab4Section = Tab4:NewSection("PKI")
+
+---Buttons
+
+Tab1Section:NewButton("Lunar Hub (MM2)", "Kunci: jointhediscordpls", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/vwSaraa/LunarHub/main/mm2"))()
+end)
+
+Tab1Section:NewButton("gak tahu (MM2)", "Gak ada lah", function()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Drifter0507/GUIS/main/MURDER%20MYSTERY%202", true))();
+end)
+
+Tab1Section:NewButton("Gak Tahu (MM2)", "Gak Ada Lah", function()
+    loadstring(game:HttpGet('https://kidachi.xyz/loader.html', true))()
+end)
+
+Tab1Section:NewButton("Ice Hub (Brookhaven)", "🤨📸", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+end)
+
+Tab1Section:NewButton("Admin Absur (Admin Gratis)", "🤨📸 Lagi?", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/HubbyScripts/FE-Admin-Abuser/main/source"))()
+end)
+
+Tab1Section:NewButton("Troll Hub (Meep City)", "🤨📸", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/synolope/mpcity/main/mainscript.lua",true))()
+end)
+
+Tab1Section:NewButton("Nukermode Hub (Da Hood)", "🤨📸", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/Whitelist.txt"))()
+end)
+
+Tab2Section:NewButton("Toni Hub", "Oke", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DrFredfnafid/Swim/main/Toni%20Hub"))()
+end)
+
+Tab2Section:NewButton("Partypooper Hub", "Kamu Nanya", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DrFredfnafid/Partypooper-Hub-V1-Release-/main/Partypooper%20Hub%20V1%20Release"))()
+end)
+
+Tab3Section:NewButton("Gamepass", "Botak", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DrFredfnafid/89/main/Gamepass"))()
+end)
+
+Tab1Section:NewButton("Gak tau (Hide And Seek Extreme)", "🤨📸", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Hide%20And%20Seek%20Extreme'))()
+end)
+
+Tab1Section:NewButton("Gak tau (Tps: street soccer)", "B8", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/hussain1323232234/My-Scripts/main/Street%20Soccer'))()
+end)
+
+Tab1Section:NewButton("King Hub (Doors)", "tipu", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/R8QMbhzv')))()
+end)
+
+Tab1Section:NewButton("Gak tau (Doors)", "Tipu", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/9QPGnLx6'),true))()
+end)
+
+Tab2Section:NewButton("Vhub", "Tahu", function()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Veincx5315/Created/VHub/Simple'),true))()
+end)
+
+Tab3Section:NewButton("Script Finder", "Anjay", function()
+    loadstring(game:HttpGet(('https://pastefy.ga/x6pTVi2h/raw'),true))()
+end)
+
+Tab4Section:NewButton("Arceus x V3 Tapi bukan asli", "Ara Ara", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/Arceus%20X%20V3"))()
+end)
+
+Tab4Section:NewButton("Synapse X Tapi bukan asli", "Jack", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NoeasyToMakeHubRoblox/main/main/Synapse%20X"))()
+end)
+
+Tab1Section:NewButton("Gak tau (Hide And Seek Extreme)", "Hah", function()
+    loadstring(game:HttpGet('https://gist.githubusercontent.com/RavyarTheBest/d0d5f9c3a8c2ca6749dda6d50fddaf00/raw/d05311914c0ab73506de76e91297743ad53097e2/gistfile1.txt'))()
+end)
+
+Tab4Section:NewButton("KRNL Tapi Bukan Asli", "Gila", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NoeasyToMakeHubRoblox/kio/main/KRNL"))()
+end)
+
+Tab3Section:NewButton("Invisible", "Anjay", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NoeasyToMakeHubRoblox/easy99/main/Invisible"))()
+end)
+
+Tab2Section:NewButton("RTX Super Bagus (pembuatnya Oleh Im_Patrick)", "Hah", function()
+    loadstring(game:HttpGet(('https://pastefy.ga/xXkUxA0P/raw'),true))()
+end)
+
+Tab3Section:NewButton("mengerak Ui Fluxus", "Gak ada", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/-Scripts/main/Fluxus%20Utility%20v0.0.1",true))()
+end)
+
+Tab1Section:NewButton("Atomic X (MeepCity dan kunci)", "Kunci: Atomic", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/MbETBv8H'))()
+end)
+
+Tab1Section:NewButton("Gak tau (combat Warrior)", "Masih Hidup lu", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IsaaaKK/cwhb/main/cw.txt"))()
+end)
+
+Tab3Section:NewButton("anti lag", "Bagus nih", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/DrgJYznq'))()
+end)
+
+Tab1Section:NewButton("Speed X (Adopt Me)", "Terkadang", function()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Script%20Game"))()
+end)
+
+Tab3Section:NewButton("Terbang Script", "Hah", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/gaz0U0XX"))();
+end)
+
+Tab1Section:NewButton("Ice Admin (Brookhaven)", "Rahasia", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/IceMael7/IceHubAdmin/main/IceHub'))()
+end)
+
+Tab3Section:NewButton("Kecepatan", "Rtu", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/s9AFfn9K'))()
+end)
+
+Tab3Section:NewButton("Anti lag V2", "Oke", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/A5qCVHJt'))()
+end)
+
+Tab3Section:NewButton("Hapus Kunci", "Back Home", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/4FBhpWqi'))()
+end)
+
+Tab3Section:NewButton("Keyboard V1", "Bosen", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
+Tab1Section:NewButton("Gak tau (Flee The Facility)", "90", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/6GhBcqLE'))()
+end)
+
+Tab1Section:NewButton("Gak tau (funky friday)", "hold", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ShowerHead-FluxTeam/scripts/main/funky-friday-autoplay"))()
+end)
